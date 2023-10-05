@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/grimpan/static/css/main.3f9507c2.css",
+    "main.js": "/grimpan/static/js/main.eb6cb8fd.js",
+    "static/js/787.ed32c67d.chunk.js": "/grimpan/static/js/787.ed32c67d.chunk.js",
+    "static/media/logo.svg": "/grimpan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/grimpan/index.html",
+    "main.3f9507c2.css.map": "/grimpan/static/css/main.3f9507c2.css.map",
+    "main.eb6cb8fd.js.map": "/grimpan/static/js/main.eb6cb8fd.js.map",
+    "787.ed32c67d.chunk.js.map": "/grimpan/static/js/787.ed32c67d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f9507c2.css",
+    "static/js/main.eb6cb8fd.js"
+  ]
+}
